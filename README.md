@@ -1,6 +1,6 @@
-# CheatSheet for the scala language
+# My tools
 
-Published version : http://worldline.github.io/scala-cheatsheet
+Published version : http://tyrcho.github.io/my-tools
 
 Markdown source file : [index.md](index.md)
 
