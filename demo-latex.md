@@ -6,13 +6,17 @@ layout: default
 $$
 
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-
-\begin{tabular}{cc}
-x + y & a -b \\
-5 & 7 \\
-\end{tabular}
 $$
 
+
+$$
+\text{
+\begin{tabular}{cc}
+$x + y$ & $a -b$ \\
+5 & 7 \\
+\end{tabular}
+}
+$$
 
 ### MathJax
 
