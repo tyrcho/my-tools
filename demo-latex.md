@@ -2,21 +2,14 @@
 layout: default
 ---
 
-
+$$
+\begin{matrix}
+x + y & a -b \\
+\color{blue}{bla \;bla} & 7 \\
+\end{matrix}
+\mathrm{ceci\; est\; un\; texte}
 $$
 
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-
-$$
-\text{
-\begin{tabular}{cc}
-$x + y$ & $a -b$ \\
-5 & 7 \\
-\end{tabular}
-}
-$$
 
 ### MathJax
 
