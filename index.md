@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # My tools
@@ -33,25 +34,24 @@ Not really needed with ideavim
 
 ### Themes
 
-http://color-themes.com
+[http://color-themes.com](http://color-themes.com)
 
 
 ## Windows (major tools)
 
 Checklist for when I reinstall my OS.
 
-### cmder
+### [cmder](https://github.com/bliker/cmder)
 
-Helper for command-line :
+Helper for command-line
 
-* https://github.com/bliker/cmder
-* https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145
+* [Dependency](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145)
 
 ### Teracopy
 
 ### Chrome
 
-plugin to write in new tab : https://getpapier.com/
+plugin to write in new tab : [https://getpapier.com/](https://getpapier.com/)
 
 ### Clover
 
@@ -69,11 +69,10 @@ Trying these package managers :
 
 ### Office
 
-### Flux
+### [Flux](https://justgetflux.com/)
 
 Changes colors at night to help with sleep.
 
-https://justgetflux.com/
 
 ## Windows (more tools)
 
@@ -162,7 +161,7 @@ https://marketplace.eclipse.org/content/ansi-escape-console
 
 ## Eclipse - tests
 
-### [Infinitest](http://infinitest.github.com/)o
+### [Infinitest](http://infinitest.github.com/)
 
 ### [Findbugs](http://findbugs.cs.umd.edu/eclipse/)
 
