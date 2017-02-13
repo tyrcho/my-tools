@@ -120,7 +120,18 @@ Converts video to/from h265 format in batch mode
 
 See also camstudio
 
+### [DeckTape](https://github.com/astefanutti/decktape) to export html slides to PDF
 
+Download decktape-1.0.0.zip and phantomjs.exe from [DeckTape releases](https://github.com/astefanutti/decktape/releases/)
+
+Unzip DeckTape and move phantomjs executable to the same folder, let's say to C:\dev\tools\decktape-1.0.0
+
+Follow instructions from [DeckTape github project](https://github.com/astefanutti/decktape#usage) :
+
+```
+C:\dev\tools\decktape-1.0.0
+λ phantomjs-msvc2013-x86.exe decktape.js  http://my.url/index.html export.pdf
+```
 
 ## Eclipse - basic
 
