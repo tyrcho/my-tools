@@ -60,8 +60,8 @@ Explorer in Chrome-like tabs
 ### GVim
 
 Trying these package managers :
-* http://cream.sourceforge.net/download.html
-* http://vim.spf13.com/
+* <http://cream.sourceforge.net/download.html>
+* <http://vim.spf13.com/>
 
 ### 7-zip
 
@@ -94,8 +94,9 @@ LC_ALL=en_IN.UTF-8 asciinema rec)
 
 ### sync outlook - google
 
-* http://www.fieldstonsoftware.com/software/gsyncit3/download.shtml
-* new tool from antoine (TODO)
+* [CallDav Synchronizer](https://sourceforge.net/projects/outlookcaldavsynchronizer/files/latest/download?source=files)
+* Previously : [GSyncIt](http://www.fieldstonsoftware.com/software/gsyncit3/download.shtml)
+
 
 ### git
 
