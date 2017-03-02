@@ -10,6 +10,7 @@ x + y & a -b \\
 \mathrm{ceci\; est\; un\; texte}
 $$
 
+$\lnot\ \exists{x}{\in}\mathbf{X}\, P(x) \equiv\ \forall{x}{\in}\mathbf{X}\, \lnot P(x)$
 
 # MathJax
 
